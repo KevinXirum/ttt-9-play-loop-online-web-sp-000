@@ -39,6 +39,6 @@ end
 def play(board)
    i = 1 
    while i == 9 
-   i += 9
+   i += 1 
 end
   
